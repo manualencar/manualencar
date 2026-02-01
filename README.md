@@ -1,8 +1,7 @@
 ### Olá Galera! Sou a Manu 👋
 
-- 🔭 Hoje trabalho com Marketing 
-- 🌱 Estou estudando UX; UX Research e Data Analytcs 
-- ✏️ Content Manager em <a href=https://vidaespiritualidade.com.br/> vidaespiritualidade.com.br </a>
-- 😄 Pronouns: ela/dela
+- 🔭 Hoje trabalho com Marketing em Gestão de Contas, Ecommerce e Performance
+- 🌱 Estou estudando Data Analytcs, UX e Atumações. 
+
 
 
